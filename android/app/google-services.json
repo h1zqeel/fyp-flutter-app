@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "652672634405",
+    "project_id": "fyp-firebase-app",
+    "storage_bucket": "fyp-firebase-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652672634405:android:85c1f5f890afb568d0f9cc",
+        "android_client_info": {
+          "package_name": "detectcovid.tech.fyp_flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652672634405-d5d7e2l1b97c3bei9160lp33tvsg5s5u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "detectcovid.tech.fyp_flutter_app",
+            "certificate_hash": "cf53e1e8aaf27a73dadc18a621d51fcebadc9239"
+          }
+        },
+        {
+          "client_id": "652672634405-svbvmbpdonjuhk3jrjc3akh0m1hi9mkj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9Hfpgy1aHdf-BYtaGl2bEczBLUcf276o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652672634405-svbvmbpdonjuhk3jrjc3akh0m1hi9mkj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
